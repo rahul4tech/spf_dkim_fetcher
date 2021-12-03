@@ -1,0 +1,5 @@
+/files/*
+!files/.keep
+/outputs/*
+!outputs/.keep
+/node_modules/*

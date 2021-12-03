@@ -1,0 +1,18 @@
+{
+  "name": "spf_dkim_fetcher",
+  "version": "1.0.0",
+  "description": "This Will Fetch SPF AND DKIM FROM Webmin Url Strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "spfdkim": "node index.js"
+  },
+  "author": "Rahul Sinha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "validator": "^13.7.0"
+  }
+}
