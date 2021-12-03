@@ -7,4 +7,5 @@
 * Result Files Can Be seen in **output** folder with name **results.csv**
 
 Main Requirement
-: Alwas Use Csv File And Include in cli command
+: * Alwas Use Csv File And Include in cli command
+:* Use header ***dns_lookup*** in csv file for webmin url strings
